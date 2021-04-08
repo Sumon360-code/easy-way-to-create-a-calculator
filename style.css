@@ -1,0 +1,49 @@
+.form-style {
+    width: 500px;
+    margin: 0 auto;
+}
+
+#form-header {
+    margin: auto;
+    background-color: black;
+    text-align: center;
+    height: 631px;
+    border-radius: 10px;
+}
+
+#form-text-main {
+    width: 86%;
+    height: 71px;
+    margin-top: 62px;
+    border-radius: 10px;
+    font-size: 69px;
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+input[type="button"] {
+    width: 92px;
+    height: 69px;
+    margin-right: 10px;
+    border-radius: 42px;
+    font-size: 40px;
+    text-align: center;
+    border: none;
+}
+
+input#styleZero {
+    width: 197px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.changeColor {
+    background-color: coral;
+}
+
+h1 {
+    text-align: center;
+    font-size: 53px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
